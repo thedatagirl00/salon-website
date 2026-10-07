@@ -1,16 +1,78 @@
-# React + Vite
+Salon Website 
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive salon website designed to help a salon showcase its services, display its work, and make it easy for customers to get in touch and book appointments.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This project was created as a professional website solution for a salon business. It provides visitors with information about the salon, available services, images of previous work, and an easy way to make enquiries or book an appointment through WhatsApp.
 
-## React Compiler
+The design focuses on simplicity, responsiveness, visual appeal, and a smooth user experience across different devices.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the Oxlint configuration
+- Responsive design for mobile, tablet, and desktop
+- Modern and clean user interface
+- Hero section with a clear call-to-action
+- About the salon section
+- Services section
+- Image gallery
+- Contact section
+- WhatsApp appointment booking
+- Mobile-friendly navigation
+- Easy-to-use interface
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Technologies Used
+
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript
+- HTML5
+- CSS3
+
+## Project Goals
+
+- Create a professional online presence for a salon
+- Showcase salon services and previous work
+- Make appointment booking easier for customers
+- Practice building responsive interfaces with React
+- Strengthen my skills in Tailwind CSS and component-based development
+- Build a functional website for a real-world business
+
+## Responsive Design
+
+The website is designed to work across different screen sizes, providing a consistent and user-friendly experience on smartphones, tablets, and desktop computers.
+
+## What I Learned
+
+Through this project, I strengthened my understanding of React component development, responsive web design, Tailwind CSS, website deployment, and creating user-friendly interfaces for real-world business needs.
+
+## Getting Started
+
+Clone the repository:
+
+git clone YOUR_GITHUB_REPOSITORY_URL
+
+Navigate into the project folder:
+
+cd salon-website
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+## Live Demo
+
+
+https://pamzhairworks.vercel.app/
+
+
+## Author
+
+Created by Halima
+
+GitHub: https://github.com/thedatagirl00
